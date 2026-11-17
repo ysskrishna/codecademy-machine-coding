@@ -1,5 +1,7 @@
 # Recipe API
 
+[![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
+
 A RESTful API service for managing cooking recipes, built with FastAPI and SQLAlchemy. This API allows users to create, read, update, and delete recipes, with support for advanced filtering, sorting, and search capabilities.
 
 ## Features
@@ -135,3 +137,29 @@ docker compose down -v
   - Pagination (`page`, `page_size`)
   - Text search across name, ingredients, and instructions
   - Sorting by name or creation date (asc/desc)
+
+## Built and maintained by
+
+Recipe API is built and maintained by:
+
+| | Name | GitHub | Role |
+|---|------|--------|------|
+| <img src="https://github.com/ysskrishna.png?size=120" width="60" height="60" alt="Y. Siva Sai Krishna"> | **Y. Siva Sai Krishna** | [@ysskrishna](https://github.com/ysskrishna) | Creator |
+
+## Support
+
+If you find this project helpful:
+
+- ⭐ Star the repository
+- 🐛 [Report issues](https://github.com/ysskrishna/codecademy-machine-coding/issues)
+- 🔀 Submit pull requests
+- 💝 [Sponsor on GitHub](https://github.com/sponsors/ysskrishna)
+
+---
+
+<p align="left">
+  <a href="https://github.com/ysskrishna">Author's GitHub</a> •
+  <a href="https://linkedin.com/in/ysskrishna">Author's LinkedIn</a> •
+  <a href="https://ysskrishna.space">Author's site</a> •
+  <a href="https://github.com/ysskrishna/codecademy-machine-coding/issues">Report Issues</a>
+</p>
